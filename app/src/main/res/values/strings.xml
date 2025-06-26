@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sand</string>
+    <string name="order_id">Order ID</string>
+    <string name="trip_no">Trip No</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="customer_mobile_no">Customer Mobile No</string>
+    <string name="sand_quantity">Sand Quantity</string>
+    <string name="driver_name">Driver Name</string>
+    <string name="driver_mobile_no">Driver Mobile No</string>
+    <string name="vehicle_no">Vehicle No</string>
+    <string name="qr_code_link">QR Code Link</string>
+    <string name="address">Address</string>
+    <string name="print">Print</string>
+</resources>
